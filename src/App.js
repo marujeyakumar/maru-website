@@ -11,6 +11,11 @@ class App extends Component {
          Maru Jeyakumar 
          <NavBar />
         </header>
+        <p> Hi there! I'm Maru. This website is a work in progress. Currently I'm working on building a personal website showcasing 
+          my professional experiences, interests, projects, and my front end developement skills using 
+          React, Material UI and styled components. The website is hosted using AWS Amplify, and you can
+          find the repository on Github, under my username marujeyakumar. 
+        </p>
       </div>
     );
   }
