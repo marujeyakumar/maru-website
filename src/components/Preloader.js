@@ -12,7 +12,7 @@ export default class Preloader extends Component {
   componentDidMount() {
     window.onload = () => {
       this.setState({ loaded: true });
-      setTimeout(() => {
+      setTimeout(() => {                  
         this.setState({ remove: true });
       }, 900);
     };
