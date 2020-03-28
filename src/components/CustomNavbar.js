@@ -41,9 +41,9 @@ class CustomNavbar extends Component {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className={`navbar-nav menu ml-auto ${nClass}`}>
                             <li className="nav-item"><NavLink exact title="Home" className="nav-link" to='/'>Home</NavLink></li>
-                                <li className="nav-item"><NavLink exact title="About" className="nav-link" to='/Pages/About'>About</NavLink></li>
-                                <li className="nav-item"><NavLink exact title="Experience" className="nav-link" to='/Pages/Service'>Experience</NavLink></li>
-                                <li className="nav-item"><NavLink exact title="Contact" className="nav-link" to='/Pages/Contact'>Contact</NavLink></li>
+                                <li className="nav-item"><NavLink exact title="About" className="nav-link" to='/#About'>About</NavLink></li>
+                                <li className="nav-item"><NavLink exact title="Experience" className="nav-link" to='/#Experience'>Experience</NavLink></li>
+                                <li className="nav-item"><NavLink exact title="Contact" className="nav-link" to='/#Contact'>Contact</NavLink></li>
                             </ul>
                         </div>
                     </div>

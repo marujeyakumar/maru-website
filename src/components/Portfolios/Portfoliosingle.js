@@ -7,25 +7,10 @@ const Portfoliosingle =()=>{
                 <div className="row">
                     <div className="col-lg-5">
                         <div className="portfolio_details_info pr_50">
-                            <h5 className="f_700 f_p f_size_20 t_color3 mb-30">Brand new project</h5>
-                            <p className="f_400 f_size_15 mb-0">Why I say old chap that is spiffing tickety-boo amongst, brolly bugger say William in my flat Elizabeth tosser. Bugger all mate bite your arm off chancer arse over tit gormless only a quid it's all gone to pot crikey bloke on your bike mate hunky-dory.</p>
+                            <h5 className="f_700 f_p f_size_20 t_color3 mb-30">About Me</h5>
+                            <p className="f_400 f_size_15 mb-0">Hello! My name is Marudevi Jeyakumar, but I like to go by Maru (pronounced muh-roo). I'm a junior Software Engineer with a keen interest in front end and mobile development. I currently work as a Software Engineer at the Healthcare of Ontario Pension Plan in Toronto, Canada. I graduated from the Univeristy of Toronto with a degree in Computer Engineering in June 2019. In my free time, I am an intermediate Aerialist and am striving to get better. I enjoy reading, coding new projects, and spending time with my friends and family.  </p>
                             <div className="portfolio_category mt_60">
-                                <div className="p_category_item mb-30">
-                                    <h6 className="f_p f_size_15 f_400 t_color3 mb-0 l_height28">Client: </h6>
-                                    <p className="f_size_15 f_400 mb-0">Abstergo Industries.</p>
-                                </div>
-                                <div className="p_category_item mb-30">
-                                    <h6 className="f_p f_size_15 f_400 t_color3 mb-0 l_height28">Date: </h6>
-                                    <p className="f_size_15 f_400 mb-0">March, 2018</p>
-                                </div>
-                                <div className="p_category_item mb-30">
-                                    <h6 className="f_p f_size_15 f_400 t_color3 mb-0 l_height28">Website: </h6>
-                                    <p className="f_size_15 f_400 mb-0">droitlab.com</p>
-                                </div>
-                                <div className="p_category_item mb-30">
-                                    <h6 className="f_p f_size_15 f_400 t_color3 mb-0 l_height28">Services: </h6>
-                                    <p className="f_size_15 f_400 mb-0">Web Development, UX Design, SEO</p>
-                                </div>
+                               
                                 <div className="p_category_item">
                                     <p className="f_400 f_size_15 mb-0">Share on</p>
                                     <div className="social_icon">
