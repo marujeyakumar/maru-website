@@ -239,6 +239,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .w_color {
   color: #fff;
 }
+.w_color_black {
+  color: #000000; 
+}
 
 .t_color2 {
   color: #3f4451;
@@ -4535,10 +4538,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 /*====================================================*/
 /*================= Start breadcrumb_area css =================*/
 .breadcrumb_area {
-  background-image: -moz-linear-gradient(180deg, #d6004b 0%, #e85186 100%);
-  background-image: -webkit-linear-gradient(180deg, #d6004b 0%, #e85186 100%);
-  background-image: -ms-linear-gradient(180deg, #d6004b 0%, #e85186 100%);
-  background-image:  linear-gradient(180deg, #d6004b 0%, #e85186 100%);
+  background-image: -moz-linear-gradient(180deg, #f7ad00 0%, #f7ad00 100%);
+  background-image: -webkit-linear-gradient(180deg, #f7ad00 0%, #f7ad00 100%);
+  background-image: -ms-linear-gradient(180deg, #f7ad00 0%, #f7ad00 100%);
+  background-image:  linear-gradient(180deg,#f7ad00  0%, #f7ad00 100%);
   position: relative;
   z-index: 1;
   padding: 235px 0px 125px;

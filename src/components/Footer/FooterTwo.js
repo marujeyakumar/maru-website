@@ -9,16 +9,7 @@ class FooterTwo extends Component {
         let FooterData = this.props.FooterData;
         return(
             <footer className={`footer_area footer_area_four f_bg ${fClass}`}>
-                <div className="footer_top">
-                    <div className="container">
-                        <div className="row">
-                            {
-                                
-                            }
-                          
-                        </div>
-                    </div>
-                </div>
+              
                 <div className="footer_bottom">
                     <div className="container">
                         <div className="row">
@@ -29,18 +20,16 @@ class FooterTwo extends Component {
                                 <div className="f_social_icon_two text-center">
                                     {
                                         FooterData.socialIcon.map(item =>{
+                                         
                                             return(
-                                                <a href="/" key={item.id}><i className={item.icon}></i></a>
+                                                <a href={item.url} key={item.id}><i className={item.icon}></i></a>
                                             )
                                         })
                                     }
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-4 col-sm-12">
-                                <ul className="list-unstyled f_menu text-right">
-                                    <li><a href=".#">Terms of Use</a></li>
-                                    <li><a href=".#">Privacy Policy</a></li>
-                                </ul>
+                            
                             </div>
                         </div>
                     </div>

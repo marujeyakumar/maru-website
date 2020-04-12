@@ -88,22 +88,17 @@ const FooterData = {
                 {
                   id: 1,
                   url: '#',
-                  icon: 'ti-facebook',
+                  icon: 'ti-linkedin',
                 },
                 {
                   id: 2,
                   url: '#',
-                  icon: 'ti-twitter-alt',
+                  icon: 'ti-github',
                 },
                 {
                   id: 3,
                   url: '#',
-                  icon: 'ti-vimeo-alt',
-                },
-                {
-                  id: 4,
-                  url: '#',
-                  icon: 'ti-pinterest',
+                  icon: 'ti-instagram',
                 }
             ]
         }
@@ -111,23 +106,18 @@ const FooterData = {
     socialIcon:[
       {
         id: 1,
-        url: 'https://www.facebook.com/',
-        icon: 'ti-facebook',
-      },
-      {
-        id: 2,
-        url: '#',
-        icon: 'ti-twitter-alt',
+        url: 'https://www.linkedin.com/in/maru-jeyakumar/',
+        icon: 'ti-linkedin',
       },
       {
         id: 3,
-        url: '#',
-        icon: 'ti-vimeo-alt',
+        url: 'https://github.com/marujeyakumar',
+        icon: 'ti-github',
       },
       {
         id: 4,
-        url: '#',
-        icon: 'ti-pinterest',
+        url: 'https://www.instagram.com/maru.jeyakumar/?hl=en',
+        icon: 'ti-instagram',
       }
     ],
     copywrite:"© SaasLand Inc.. 2019 All rights reserved.",
