@@ -6,7 +6,7 @@
     "bootstrap": "^4.3.1",
     "history": "^4.10.1",
     "isotope-layout": "^3.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-mousewheel": "^3.1.13",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
     "popper.js": "^1.16.0",
